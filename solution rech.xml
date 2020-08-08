@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution SDP=" 852" SFT=" 448" SDD=" 1456">
+  <task>
+    <num_tache>8</num_tache>
+    <name_tache>StrikeIron Company Search</name_tache>
+  </task>
+  <task>
+    <num_tache>10</num_tache>
+    <name_tache>StrikeIron Lookup Business</name_tache>
+  </task>
+  <task>
+    <num_tache>18</num_tache>
+    <name_tache>Xignite Get Topic Chart</name_tache>
+  </task>
+  <task>
+    <num_tache>17</num_tache>
+    <name_tache>Xignite Get Market Summary</name_tache>
+  </task>
+</Solution>

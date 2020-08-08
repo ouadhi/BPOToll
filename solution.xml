@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution SDP=" 1711" SFT=" 869" SDD=" 2862">
+  <task>
+    <num_tache>23</num_tache>
+    <name_tache>Smartpayments CardValidator</name_tache>
+  </task>
+  <task>
+    <num_tache>13</num_tache>
+    <name_tache>GUID Generator</name_tache>
+  </task>
+  <task>
+    <num_tache>21</num_tache>
+    <name_tache>Servicetrack</name_tache>
+  </task>
+  <task>
+    <num_tache>10</num_tache>
+    <name_tache>FraudLabs Credit Card Fraud Detection</name_tache>
+  </task>
+  <task>
+    <num_tache>24</num_tache>
+    <name_tache>StrikeIron Global Address Verification</name_tache>
+  </task>
+  <task>
+    <num_tache>20</num_tache>
+    <name_tache>SAINTlogin users validation</name_tache>
+  </task>
+  <task>
+    <num_tache>28</num_tache>
+    <name_tache>VeriSign Payment</name_tache>
+  </task>
+  <task>
+    <num_tache>10</num_tache>
+    <name_tache>FraudLabs Credit Card Fraud Detection</name_tache>
+  </task>
+</Solution>
